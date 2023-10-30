@@ -5,3 +5,6 @@
 #### ・convertToLearningSet.py ・・・jsonデータをtxtに変換するのに使用
 #### ・testuse.ipynb ・・・webカメラでリアルタイムに小銭を分類するのに使用
 #### ・Camera 2023-02-04 23-15-30.mp4　・・・リアルタイム動作している様子の動画
+
+
+https://datadeliver.net/receiver/file_boxes/141462ee80e7434ca6400c847198ddf3/rc/81191f7ddd3f4e7d9f13aeec1e3bc21a
